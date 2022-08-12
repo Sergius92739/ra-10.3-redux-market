@@ -8,3 +8,12 @@
   padding: 1em;
 }
 
+.link {
+  padding: .3em .5em;
+  font-size: 1.3rem;
+  border-bottom: 2px solid inherit;
+  a {
+    color: $primary-color;
+  }
+}
+
