@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/r548sep1hcknx9bo/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ra-10-3-redux-market-8c0x6/branch/master)
 
 # Каталог
 
