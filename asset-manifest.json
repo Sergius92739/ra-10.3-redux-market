@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/ra-10.3-redux-market/static/css/main.8a5643ca.css",
+    "main.js": "/ra-10.3-redux-market/static/js/main.5e9cf62d.js",
+    "static/js/787.16a7955e.chunk.js": "/ra-10.3-redux-market/static/js/787.16a7955e.chunk.js",
+    "static/media/Roboto-Bold.svg": "/ra-10.3-redux-market/static/media/Roboto-Bold.541cb3422a94c6b7e915.svg",
+    "static/media/Roboto-Medium.svg": "/ra-10.3-redux-market/static/media/Roboto-Medium.8c796214ef31c8ed26f7.svg",
+    "static/media/Roboto-Black.svg": "/ra-10.3-redux-market/static/media/Roboto-Black.249fc560a15897555e15.svg",
+    "static/media/Roboto-Regular.svg": "/ra-10.3-redux-market/static/media/Roboto-Regular.527dfaa48fd1b09fffcf.svg",
+    "static/media/Roboto-Medium.eot": "/ra-10.3-redux-market/static/media/Roboto-Medium.95a5d9131d3469c3ce5e.eot",
+    "static/media/Roboto-Medium.ttf": "/ra-10.3-redux-market/static/media/Roboto-Medium.7429a63c09f79a1760b0.ttf",
+    "static/media/Roboto-Regular.eot": "/ra-10.3-redux-market/static/media/Roboto-Regular.ffdb6afaa75355e57a82.eot",
+    "static/media/Roboto-Black.eot": "/ra-10.3-redux-market/static/media/Roboto-Black.70bc7699658302342e32.eot",
+    "static/media/Roboto-Regular.ttf": "/ra-10.3-redux-market/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
+    "static/media/Roboto-Black.ttf": "/ra-10.3-redux-market/static/media/Roboto-Black.2a4285847db4a9acb97f.ttf",
+    "static/media/Roboto-Bold.eot": "/ra-10.3-redux-market/static/media/Roboto-Bold.57cefa6ff8c0ca7a891f.eot",
+    "static/media/Roboto-Bold.ttf": "/ra-10.3-redux-market/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
+    "static/media/Roboto-Medium.woff": "/ra-10.3-redux-market/static/media/Roboto-Medium.d7b36842eec814ca96c2.woff",
+    "static/media/Roboto-Bold.woff": "/ra-10.3-redux-market/static/media/Roboto-Bold.ad72f24fecee81055b62.woff",
+    "static/media/Roboto-Regular.woff": "/ra-10.3-redux-market/static/media/Roboto-Regular.5de7b2aa0c98ccc93fc6.woff",
+    "static/media/Roboto-Black.woff": "/ra-10.3-redux-market/static/media/Roboto-Black.8864e7ac032ef057bbf8.woff",
+    "static/media/icomoon-money.svg?mtrstz": "/ra-10.3-redux-market/static/media/icomoon-money.9d3ff1c40a59a147c3a3.svg",
+    "static/media/icomoon-money.eot?mtrstz": "/ra-10.3-redux-market/static/media/icomoon-money.bfc4066d63be34708625.eot",
+    "static/media/icomoon-money.woff?mtrstz": "/ra-10.3-redux-market/static/media/icomoon-money.045f1f3677ae7ddbf8fb.woff",
+    "static/media/icomoon-money.ttf?mtrstz": "/ra-10.3-redux-market/static/media/icomoon-money.c26a297eaf307c2e88c2.ttf",
+    "index.html": "/ra-10.3-redux-market/index.html",
+    "main.8a5643ca.css.map": "/ra-10.3-redux-market/static/css/main.8a5643ca.css.map",
+    "main.5e9cf62d.js.map": "/ra-10.3-redux-market/static/js/main.5e9cf62d.js.map",
+    "787.16a7955e.chunk.js.map": "/ra-10.3-redux-market/static/js/787.16a7955e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a5643ca.css",
+    "static/js/main.5e9cf62d.js"
+  ]
+}
